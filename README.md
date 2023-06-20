@@ -17,4 +17,4 @@ cargo run --release
 - Control + Left click to place 4 control points
 - Left click a control point and drag it to change its location
 
-![thumbnail](./data/images/images/cubic_bezier.png)
+![thumbnail](./data/images/cubic_bezier.png)
